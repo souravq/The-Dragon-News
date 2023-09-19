@@ -1,0 +1,25 @@
+.cardHeader {
+  height: 65px;
+  border-radius: 5px 5px 0px 0px;
+  border: 1px solid var(--Dark-07, #f3f3f3);
+  background: var(--Dark-07, #f3f3f3);
+}
+.cardHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.cardHeaderLeft {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.cardHeaderLeft > div {
+  display: flex;
+  flex-direction: column;
+}
+.cardFooter {
+  display: flex;
+  justify-content: space-between;
+}

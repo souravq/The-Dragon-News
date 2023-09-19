@@ -1,0 +1,24 @@
+.newsTitle {
+  color: var(--Dark-02, #403f3f);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.newsTag {
+  color: var(--Dark-02, #403f3f);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.newsDate {
+  color: var(--Dark-04, #9f9f9f);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+}
